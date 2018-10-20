@@ -1,3 +1,3 @@
-# Poker
+# Uno
 
-Poker game utilizing C
+Uno game utilizing C
